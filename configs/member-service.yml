@@ -45,7 +45,5 @@ springdoc:
 # cors 설정
 cors:
   allowed:
-    - https://koreait.xyz
     - https://kdy-service.koreait.xyz
     - http://localhost:3000
-g
