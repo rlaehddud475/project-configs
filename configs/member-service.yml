@@ -46,6 +46,6 @@ springdoc:
 cors:
   allowed:
     - https://koreait.xyz
-    - https://board-service.koreait.xyz
+    - https://kdy-service.koreait.xyz
     - http://localhost:3000
 g
