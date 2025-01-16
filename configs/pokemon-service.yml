@@ -66,3 +66,12 @@ springdoc:
     doc-expansion: none
   paths-to-match:
     - /api/**
+
+eureka:
+  instance:
+    hostname: ${hostname}
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: ${eureka.server}/eureka/
