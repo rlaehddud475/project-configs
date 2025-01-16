@@ -8,7 +8,7 @@
       <change afterPath="$PROJECT_DIR$/../configserver" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../memberservice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../front" beforeDir="false" afterPath="$PROJECT_DIR$/../../front" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../memberservice/src/main/java/org/koreait/member/jwt/TokenService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../memberservice/src/main/java/org/koreait/member/jwt/TokenService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configs/gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/gateway-service.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
