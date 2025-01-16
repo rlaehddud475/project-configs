@@ -50,3 +50,12 @@ cors:
 # 프론트 앤드 도메인
 front:
   domain: https://kdy.koreait.xyz,http://localhost:3000
+
+eureka:
+  instance:
+    hostname: ${hostname}
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: ${eureka.server}/eureka/
