@@ -8,7 +8,7 @@
       <change beforePath="$PROJECT_DIR$/../../front" beforeDir="false" afterPath="$PROJECT_DIR$/../../front" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eurekaservice" beforeDir="false" afterPath="$PROJECT_DIR$/../eurekaservice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gatewayservice" beforeDir="false" afterPath="$PROJECT_DIR$/../gatewayservice" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configs/file-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/file-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pokemon" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
