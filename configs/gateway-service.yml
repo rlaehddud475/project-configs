@@ -28,6 +28,12 @@ spring:
           filters:
             - RewritePath=/api/v1/member/?(?<path>.*),/$\{path}
 
+        - id: file-service
+          uri: lb://file-service
+          predicates:
+            - Path=/api/v1/file/**
+          filters:
+            - RewritePath=/api/v1/file/?(?<path>.*),/$\{path}
 # 유레카 설정
 eureka:
   instance:
