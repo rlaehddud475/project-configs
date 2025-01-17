@@ -13,3 +13,6 @@ spring:
 file:
   upload.path: /Users/propheter/Downloads/uploads/
   upload.url: /uploads/
+
+cors:
+  allowed: http://config-server2.silvertale.xyz,http://localhost:3000
