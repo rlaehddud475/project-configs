@@ -7,9 +7,10 @@
     <list default="true" id="fccb8b43-343f-4bb7-b515-e3f8af1674b5" name="변경" comment=".">
       <change beforePath="$PROJECT_DIR$/../../front" beforeDir="false" afterPath="$PROJECT_DIR$/../../front" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../eurekaservice" beforeDir="false" afterPath="$PROJECT_DIR$/../eurekaservice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fileservice" beforeDir="false" afterPath="$PROJECT_DIR$/../fileservice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../gatewayservice" beforeDir="false" afterPath="$PROJECT_DIR$/../gatewayservice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../memberservice" beforeDir="false" afterPath="$PROJECT_DIR$/../memberservice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configs/gateway-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/configs/gateway-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../pokemon" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,16 +51,16 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.project-configs [clean bootJar].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/propheter/Downloads/project/msa_project/project-config/configs"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.project-configs [clean bootJar].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/propheter/Downloads/project/msa_project/project-config/configs&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/configs" />
